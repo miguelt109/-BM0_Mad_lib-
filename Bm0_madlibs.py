@@ -34,3 +34,5 @@ if random_interger == 2:
 	print("is this a four?")
 	time.sleep(6)
 	print("ok bye now")
+
+	#hi
